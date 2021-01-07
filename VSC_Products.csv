@@ -1,0 +1,196 @@
+Catlog,Type,Name,UOM,Purchase_Cost,Purchase_Qty,Margin,MRP_Price,Price,Available_Qty,Available,Rack
+Naturalleya,Vegetable,Ambe Halad [Y & W],Kg,100,0,0.5,150,211,0,In_Stock,N/A
+Naturalleya,Fruits,Apple (Kashmir),Kg,102,0,0.5,153,155,0,In_Stock,N/A
+Naturalleya,Vegetable,Arvi,Kg,0,0,0.5,0,60,0,In_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Baby Potato,Bag,32,0,0.5,48,48,0,In_Stock,N/A
+Naturalleya,Vegetable,Banana Flower,Pc,30,0,0.5,45,45,0,In_Stock,N/A
+Naturalleya,Vegetable,Banana Thor,Kg,35,0,0.5,52.5,55,0,In_Stock,N/A
+Naturalleya,Vegetable,Beans French,Kg,50,0,0.5,75,120,0,In_Stock,N/A
+Naturalleya,Vegetable,Beetroot,Kg,0,0,0.5,0,72,0,In_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Bell Pepper R&Y,Pkt,0,0,0.5,0,80,0,In_Stock,N/A
+Naturalleya,Vegetable,Brinjal (Bharta),Kg,60,0,0.5,90,105,0,In_Stock,N/A
+Naturalleya,Vegetable,Brinjal (Small - Purple),Kg,50,0,0.5,0,90,0,In_Stock,N/A
+Naturalleya,Vegetable,Cabbage,Kg,40,0,0.5,60,66,0,In_Stock,N/A
+Naturalleya,Vegetable,Capsicum,Kg,60,0,0.5,90,90,0,In_Stock,N/A
+Naturalleya,Vegetable,Carrot,Kg,50,0,0.5,75,75,0,In_Stock,N/A
+Naturalleya,Vegetable,Cauliflower,Kg,40,0,0.5,60,70,0,In_Stock,N/A
+Naturalleya,Vegetable,Chow Chow,Kg,40,0,0.5,60,70,0,In_Stock,N/A
+Naturalleya,Fruits,Coconut,Kg,26,0,0.5,39,40,0,In_Stock,N/A
+Naturalleya,Vegetable,Cucumber (Green),Kg,10,0,0.5,15,24,0,In_Stock,N/A
+Naturalleya,Vegetable,Cucumber (White),Kg,16,0,0.5,24,36,0,In_Stock,N/A
+Naturalleya,Vegetable,Cucumber Madras,Kg,40,0,0.5,60,76,0,In_Stock,N/A
+Naturalleya,Beverages,Fresh Juice,Ltr,0,0,0.5,0,0,0,In_Stock,N/A
+Naturalleya,Vegetable - Essentials,Garlic - Lahasoon,Kg,106.5,0,0.5,159.75,180,0,In_Stock,N/A
+Naturalleya,Vegetable - Essentials,Ginger - Adrak,Kg,30,0,0.5,45,70,0,In_Stock,N/A
+Naturalleya,Vegetable,Gourd -  Ash,Kg,50,0,0.5,75,75,0,In_Stock,N/A
+Naturalleya,Vegetable,Gourd - Bitter,Kg,60,0,0.5,90,108,0,In_Stock,N/A
+Naturalleya,Vegetable,Gourd - Bottle,Kg,19,0,0.5,28.5,30,0,In_Stock,N/A
+Naturalleya,Vegetable,Gourd - Ridge,Kg,36,0,0.5,54,50,0,In_Stock,N/A
+Naturalleya,Vegetable,Gourd - Spine | Kantola,Kg,80,0,0.5,120,120,0,In_Stock,N/A
+Naturalleya,Vegetable,Green - Coriander,Bunch,6,0,0.5,9,18,0,In_Stock,N/A
+Naturalleya,Vegetable,Green - Mint,Bunch,7,0,0.5,10.5,15,0,In_Stock,N/A
+Naturalleya,Vegetable,Green - Palak,Bunch,7,0,0.5,10.5,20,0,In_Stock,N/A
+Naturalleya,Vegetable,Green - Radish,Bunch,20,0,0.5,30,35,0,In_Stock,N/A
+Naturalleya,Vegetable - Essentials,Green Chilli,Kg,0,0,0.5,0,100,0,In_Stock,N/A
+Naturalleya,Fruits,Guava,Kg,0,0,0.5,0,0,0,In_Stock,N/A
+Naturalleya,Fruits,Hara Naryal,Kg,34,0,0.09,37.06,40,0,In_Stock,N/A
+Naturalleya,Vegetable,Knor Khol,Bunch,60,0,0.5,90,60,0,In_Stock,N/A
+Naturalleya,Vegetable,Lady Finger,Kg,30,0,0.5,45,54,0,In_Stock,N/A
+Naturalleya,Vegetable - Essentials,Lemon,Pc,1.5,0,0.5,2.25,3,0,In_Stock,N/A
+Naturalleya,Vegetable,Maati Aloo,Kg,80,0,0.5,120,150,0,In_Stock,N/A
+Naturalleya,Sprouts,Matki | Mixed Matki,Pkt,0,0,0.5,0,30,0,In_Stock,N/A
+Naturalleya,Fruits,Mausambi,Kg,60,0,0.5,90,100,0,In_Stock,N/A
+Naturalleya,Sprouts,Moong,Pkt,0,0,0.5,0,30,0,In_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Mushrooms,Pkt,32,0,0.5,48,60,0,In_Stock,N/A
+Naturalleya,Fruits,Muskmelon,Kg,47,0,0.5,0,84,0,In_Stock,N/A
+Naturalleya,Vegetable - Essentials,Onion,Kg,54,0,0.5,81,80,0,In_Stock,N/A
+Naturalleya,Fruits,Oranges,Kg,40,0,0.5,60,64,0,In_Stock,N/A
+Naturalleya,Fruits,Papaya,Kg,16,0,0.5,24,35,0,In_Stock,N/A
+Naturalleya,Vegetable,Parwal,Kg,50,0,0.5,75,90,0,In_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Peeled Garlic,Pkt,20,0,0.5,30,30,0,In_Stock,N/A
+Naturalleya,Vegetable - Essentials,Potato,Kg,30,0,0.5,45,50,0,In_Stock,N/A
+Naturalleya,Vegetable,Potato Sweet,Kg,0,0,0.5,0,78,0,In_Stock,N/A
+Naturalleya,Vegetable,Pumpkin (Big),Kg,0,0,0.5,0,67,0,In_Stock,N/A
+Naturalleya,Vegetable,Sutane,Kg,40,0,0.5,60,100,0,In_Stock,N/A
+Naturalleya,Vegetable - Essentials,Tomato,Kg,28,0,0.5,42,50,0,In_Stock,N/A
+Naturalleya,Fruits,Watermelon,Kg,0,0,0.5,0,45,0,In_Stock,N/A
+Naturalleya,Vegetable,Yam,Kg,20,0,0.5,30,50,0,In_Stock,N/A
+Bong-Haat,Rice,Banskathi Husking 5 KG,Kg,470.25,0,0.05,495,495,0,In_Stock,N/A
+Bong-Haat,Pickles,Chalta Achaar,Kg,115,0,0.08,125,125,0,In_Stock,N/A
+Bong-Haat,Makaibari,Darjeeling Black Leaf,Kg,728.5,0,0.06,775,775,0,In_Stock,N/A
+Bong-Haat,Makaibari,Darjeeling Green Leaf,Kg,733.2,0,0.06,780,780,0,In_Stock,N/A
+Bong-Haat,Sunrise,Dhoka Mix,Kg,27.9,0,0.07,30,30,0,In_Stock,N/A
+Bong-Haat,Rice,Dudherswar Husking 5 KG,Kg,427.5,0,0.05,450,450,0,In_Stock,N/A
+Bong-Haat,Kasundi,Elmac kasundi 300G,Kg,58.88,0,0.08,64,64,0,In_Stock,N/A
+Bong-Haat,Makaibari,Fanning Tea,Kg,352.5,0,0.06,375,375,0,In_Stock,N/A
+Bong-Haat,Gawa Ghee,Ghosh Dairy,Kg,172.05,0,0.07,185,185,0,In_Stock,N/A
+Bong-Haat,Gawa Ghee,Jharna Ghee,Kg,162.75,0,0.07,175,175,0,In_Stock,N/A
+Bong-Haat,Posto,JK Posto 100G,Kg,169.1,0,0.05,178,178,0,In_Stock,N/A
+Bong-Haat,Daler Bori,Kalai Bori  (100G),Kg,108,0,0.1,120,120,0,In_Stock,N/A
+Bong-Haat,Rice,Miniket Husking 5 KG,Kg,427.5,0,0.05,450,450,0,In_Stock,N/A
+Bong-Haat,Rice,Mirchi Chef Gobindobhog Rice 1 KG,Kg,142.5,0,0.05,150,150,0,In_Stock,N/A
+Bong-Haat,Pulses,Mirchi Chef Matar Dal 500G,Kg,88.35,0,0.07,95,95,0,In_Stock,N/A
+Bong-Haat,Pulses,Mirchi Chef Sona Masoor 500G,Kg,88.35,0,0.07,95,95,0,In_Stock,N/A
+Bong-Haat,Pulses,Mirchi Chef Sona Moong 500G,Kg,88.35,0,0.07,95,95,0,In_Stock,N/A
+Bong-Haat,Chanachur,Mukharochak 7PM,Pkt,0,0,0.07,73,73,0,In_Stock,N/A
+Bong-Haat,Chanachur,Mukharochak chaal Bhaja,Pkt,0,0,0.07,70,70,0,In_Stock,N/A
+Bong-Haat,Chanachur,Mukharochak chira Bhaja,Pkt,0,0,0.07,64,64,0,In_Stock,N/A
+Bong-Haat,Chanachur,Mukharochak Mirchi Jhal,Pkt,69.75,0,0.07,70,70,0,In_Stock,N/A
+Bong-Haat,Chanachur,Mukharochak Special Papri,Pkt,132.06,0,0.07,142,142,0,In_Stock,N/A
+Bong-Haat,Chanachur,Mukharochak Tak Jhal Misthi,Pkt,126.48,0,0.07,136,136,0,In_Stock,N/A
+Bong-Haat,Chanachur,Mukhorochak Khata Mitha,Pkt,0,0,0.07,73,73,0,In_Stock,N/A
+Bong-Haat,Sunrise,Mustard Powder,Kg,69.75,0,0.07,75,75,0,In_Stock,N/A
+Bong-Haat,Spices Whole,Paanch Phoron 100G,Kg,46,0,0.08,50,50,0,In_Stock,N/A
+Bong-Haat,Daler Bori,Phool (Bhaja) Bori (100G),Kg,85.5,0,0.1,95,95,0,In_Stock,N/A
+Bong-Haat,Spices Whole,Radhuni 100G,Kg,50.6,0,0.08,55,55,0,In_Stock,N/A
+Bong-Haat,Sunrise,Sahi Garam Masala,Kg,186,0,0.07,200,200,0,In_Stock,N/A
+Bong-Haat,Pickles,Shidol Shutki (Dry Fish),Kg,161,0,0.08,175,175,0,In_Stock,N/A
+Bong-Haat,Sunrise,Shorshe Posto Powder,Kg,37.2,0,0.07,40,40,0,In_Stock,N/A
+Bong-Haat,Mustard Oil,Sunrise Mustard Oil 1 Litre,Ltr,150.4,0,0.06,160,160,0,In_Stock,N/A
+Bong-Haat,Posto,Sunrise Posto 100G,Kg,152,0,0.05,160,160,0,In_Stock,N/A
+Bong-Haat,Chanachur,Suruchi Bhujia,Pkt,27.9,0,0.07,30,30,0,In_Stock,N/A
+Bong-Haat,Chanachur,Suruchi Chaal Bhaja,Pkt,27.9,0,0.07,30,30,0,In_Stock,N/A
+Bong-Haat,Chanachur,Suruchi Khata Mitha,Pkt,27.9,0,0.07,30,30,0,In_Stock,N/A
+Bong-Haat,Chanachur,Suruchi Moglai Chanachur,Pkt,27.9,0,0.07,30,30,0,In_Stock,N/A
+Bong-Haat,Pickles,Topa Kuler Achaar,Kg,115,0,0.08,125,125,0,In_Stock,N/A
+Bong-Haat,Rice,Tulai Panji Rice 1 KG,Kg,152,0,0.05,160,160,0,In_Stock,N/A
+Naturalleya,Vegetable,Allu Leaves [colocasia],Bunch,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Amla / Awla,Kg,0,0,0.5,46,0,0,Out_Of_Stock,N/A
+Naturalleya,Fruits,Apple ( Royal Gala),Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Fruits,Apple (Himachal),Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Fruits,Avacado,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Baby Corn - Peeled,Pkt,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Fruits,Banana,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Banana Raw,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Beans - Chavali,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Beans - Gavar Phalli,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Beans broad - Ghevda,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Bhavanagari Mirchi,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Bakery,Bread - Brown,Loaf,0,0,0,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Bakery,Bread - Sandwich,Loaf,0,0,0,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Bakery,Bread - White,Loaf,0,0,0,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Brinjal (Gavran),Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Broccoli,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Dairy,Butter,Pc,0,0,0,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Dairy,Butter Milk,Pc,0,0,0,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Cabbage - Red,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Celery,Bunch,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Celery,Bunch,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Dairy,Cheese,Pc,0,0,0,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Fruits,Chickoo,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Chinese Cabbage,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Cluster Beans,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Corn,Pkt,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Fruits,Custard Apple,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Dairy,Dahi,Pc,0,0,0,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Drumsticks,Pc,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Value Pack,Essential Combos,Bunch,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Value Pack,Fruit Combos,Bunch,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Gondhoraj Lemon,Pc,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Gourd - Sponge (Gosale),Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Green - Amaranthus - Red,Bunch,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Green - Methi,Bunch,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Iceberg Lettuce,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Kagochi Lemon,Pc,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Kamal Kakdi,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Fruits,Kiwi - Green,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Lemon Grass,Bunch,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Lettuce - Green,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Lettuce - Iceberg,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Flowers,Marigold Orange,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Flowers,Marigold Yellow,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Dairy,Milk - Fresh,Kg,0,0,0,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Dairy,Milk - Tetrapack,Pc,0,0,0,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Dairy,Paneer,Kg,0,0,0,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Papita Raw,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Parsley Leaves - Curly,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Bakery,Pav,Loaf,0,0,0,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Fruits,Pear [Imported],Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Phanas,Pc,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Poi Shaag,Bunch,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Fruits,Pomagranate,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Potato New,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Fruits,Singhara [Fruit],Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Spring Onion,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Sprouts,Pkt,20,0,0.5,30,30,0,Out_Of_Stock,N/A
+Naturalleya,Sprouts,Sprouts - Kabuli,Pkt,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Sweet Tamarind/God Chinch,Box,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Tendli,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Dairy,Tofu,Kg,0,0,0,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Tondli,Kg,0,0,0.5,45,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable,Turnip [Shalgam],Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Value Pack,Vegetable Combos,Bunch,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Sprouts,Watana [Brown | White],Pkt,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Value Pack,Weekly Combos,Bunch,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Fruits,Yellaki Banana,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Zucchini - Green,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Naturalleya,Vegetable - Exotic | Organic,Zucchini - Yellow,Kg,0,0,0.5,0,0,0,Out_Of_Stock,N/A
+Bong-Haat,Others,Aam Sotto 500G,Kg,151.8,0,0.08,165,165,0,Out_Of_Stock,N/A
+Bong-Haat,Rice,Bansphool Husking 5 KG,Kg,489.25,0,0.05,515,515,0,Out_Of_Stock,N/A
+Bong-Haat,Pickles,Bhoot Jalokia,Kg,202.4,0,0.08,220,220,0,Out_Of_Stock,N/A
+Bong-Haat,Mustard Oil,Cold Pressed Mustard Oil (unrefined),Ltr,169.2,0,0.06,180,180,0,Out_Of_Stock,N/A
+Bong-Haat,Others,DC Bhar Taal Mishri,Kg,73.6,0,0.08,80,80,0,Out_Of_Stock,N/A
+Bong-Haat,Sweets,Jay Nagar Moa,Kg,202.4,0,0.08,220,220,0,Out_Of_Stock,N/A
+Bong-Haat,Sweets,Khejur Gur,Kg,363.4,0,0.08,395,395,0,Out_Of_Stock,N/A
+Bong-Haat,Daler Bori,Massor Bori  (100G),Kg,85.5,0,0.1,95,95,0,Out_Of_Stock,N/A
+Bong-Haat,Kasundi,Mirchi Chef Aam Kasundi,Kg,147.2,0,0.08,160,160,0,Out_Of_Stock,N/A
+Bong-Haat,Gawa Ghee,Morton Ghee,Kg,391.53,0,0.07,421,421,0,Out_Of_Stock,N/A
+Bong-Haat,Sweets,Nolen Gur,Kg,299,0,0.08,325,325,0,Out_Of_Stock,N/A
+Bong-Haat,Sweets,Nolen Gur Rosogolla,Kg,368,0,0.08,400,400,0,Out_Of_Stock,N/A
+Amul,Dairy,Amul Cow Milk 500 ml,Pkt,45.95,0,0.042708333,40,48,0,Out_Of_Stock,N/A
+Amul,Dairy,Amul Gold 1000 ml,Pkt,55,0,0.035087719,20,57,0,Out_Of_Stock,N/A
+Amul,Dairy,Amul Gold 500 ml,Pkt,56,0,0.034482759,48,58,0,Out_Of_Stock,N/A
+Amul,Dairy,Amul Taza 1000 ml,Pkt,43.5,0,0.033,58,45,0,Out_Of_Stock,N/A
+Amul,Dairy,Amul Taza 500 ml,Pkt,44.5,0,0.032,40,46,0,Out_Of_Stock,N/A
+Amul,Dairy,Butter Milk 500 ml,Pkt,22.7,0,0.054166667,73,24,0,Out_Of_Stock,N/A
+Amul,Dairy,Dahi 200 gms,Pkt,17.9,0,0.105,28,20,0,Out_Of_Stock,N/A
+Amul,Dairy,Dahi 400 gms,Pkt,35.8,0,0.105,55,40,0,Out_Of_Stock,N/A
+Amul,Dairy,Fresh Paneer 1 Kg,Pkt,303.3,0,0.107941176,340,340,0,Out_Of_Stock,N/A
+Amul,Dairy,Fresh Paneer 100gms,Pkt,32,0,0.157894737,340,38,0,Out_Of_Stock,N/A
+Amul,Dairy,Fresh Paneer 200 gms,Pkt,61.74,0,0.154246575,73,73,0,Out_Of_Stock,N/A
+Amul,Dairy,Pouch Dahi 1 Kg,Pouch,56.8,0,0.053333333,38,60,0,Out_Of_Stock,N/A
+Amul,Dairy,Pouch Dahi 200 gms,Pouch,13.86,0,0.076,60,15,0,Out_Of_Stock,N/A
+Amul,Dairy,Pouch Dahi 400 gms,Pouch,24.62,0,0.088148148,24,27,0,Out_Of_Stock,N/A
+Amul,Dairy,Premium Dahi 200 gms,Pkt,20,0,0.285714286,15,28,0,Out_Of_Stock,N/A
+Amul,Dairy,Premium Dahi 400 gms,Pkt,39,0,0.290909091,27,55,0,Out_Of_Stock,N/A
+Amul,Dairy,Slim N Trim 250 ml,Pkt,34,0,0.15,57,40,0,Out_Of_Stock,N/A
